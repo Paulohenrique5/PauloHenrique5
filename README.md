@@ -1,7 +1,6 @@
 ### Olá! eu sou o Paulo Henrique 👋
 
 
-- 
 - 🌱 Estou cursando Sistema de Informação;
 - 🤔 Procuro ajudar com dicas para projeto e estudos;
 - 💬 Pergunte-me sobre programação;
