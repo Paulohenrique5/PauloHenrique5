@@ -3,7 +3,7 @@
 
 - 🌱 Estou cursando Sistema de Informação;
 - 🤔 Procuro ajudar com dicas para projeto e estudos;
-- 💬 Pergunte-me sobre programação;
+- 💬 Pergunte-me sobre Programção e SQL;
 - 📫 Como chegar ate mim: (11) 96322-1677(Whatsapp).
 
 #
